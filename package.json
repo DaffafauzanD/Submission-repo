@@ -1,0 +1,23 @@
+{
+  "name": "bookshelf-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "start-dev": "nodemon src/server",
+    "lint": "eslint ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "eslint": "^8.50.0",
+    "eslint-config-google": "^0.14.0",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "nanoid": "^3.3.6"
+  }
+}
