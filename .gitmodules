@@ -1,0 +1,3 @@
+[submodule "a133-gcp-labs"]
+	path = a133-gcp-labs
+	url = https://github.com/dicodingacademy/a133-gcp-labs.git
